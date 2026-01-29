@@ -1,2 +1,2 @@
 # student
-student
+student detail.
